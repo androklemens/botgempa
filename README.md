@@ -1,0 +1,2 @@
+# botgempa
+Bot Telegram Gempa
